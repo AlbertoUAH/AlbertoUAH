@@ -12,5 +12,5 @@ Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</sub>
 * Where _Job\_experience_ (as a Data Scientist) equals:
   * Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset):
 <p>
- <img src="./media/knee_MRI.gif" width="30px">
+ <img src="./media/knee.gif" width="30px">
 </p>
