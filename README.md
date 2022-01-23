@@ -14,3 +14,7 @@ Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</sub>
 <p align="center">
  <img src="./media/knee.gif">
 </p>
+  * __Skin lesions detection (benign and malignant) via deep learning techniques__:
+<p align="center">
+ <img src="./media/skin.jpg">
+</p>
