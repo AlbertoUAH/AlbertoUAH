@@ -4,3 +4,5 @@
 This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using data:
 
 <img src="https://latex.codecogs.com/gif.latex?Alberto\_profile=Bachelor\_degree*X_{1}+Master\_degree*X_{2}+Job\_experience*X_{3}+GitHub\_repositories*X_{4}">
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
