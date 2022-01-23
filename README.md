@@ -20,4 +20,4 @@ __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</su
 </p>
  
  
-https://img.shields.io/badge/Python-%3C%5C%3E-yellow
+<img src="https://img.shields.io/badge/Python-%3C%5C%3E-yellow">
