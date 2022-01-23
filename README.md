@@ -19,5 +19,5 @@ __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</su
  <img src="./media/skin.jpg">
 </p>
  
- 
+# Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="30px">
 <img src="https://img.shields.io/badge/Python-%3C%5C%3E-yellow">
