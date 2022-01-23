@@ -10,7 +10,7 @@ Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</sub>
 * Where _Bachelor\_degree_ equals: __Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __Big Data & Business Analytics at Complutense University of Madrid__
 * Where _Job\_experience_ (as a Data Scientist) equals:
-  * Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset):
-<p>
+  * __Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)__:
+<p align="center">
  <img src="./media/knee.gif">
 </p>
