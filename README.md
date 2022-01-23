@@ -1,1 +1,1 @@
-![Header](https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/9afd3b92ab41ffca7f368a8fcbd6d39a75894efe0edbc14cf1f067cf625e6678.png)]{width:200px;}
+![Header](https://is5-ssl.mzstatic.com/image/thumb/Purple20/v4/ba/17/a1/ba17a1a7-9559-81dd-9f04-65ec45f48455/source/256x256bb.jpg)]
