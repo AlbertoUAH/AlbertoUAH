@@ -7,5 +7,5 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 \begin{equation}
   Alberto_profile = Bachelor_degree * X_1 + Master_degree * X_2 + Job_experience * X_3 + GitHub_repositories * X_4
 \end{equation}
-<\div>
+</div>
 
