@@ -20,4 +20,4 @@ __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</su
 </p>
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
-<img src="https://img.shields.io/badge/Python-%3C%5C%3E-yellow"> <img src="https://img.shields.io/badge/R-%3C%5C%3E-blue"> <img src="https://img.shields.io/badge/Scala-%3C%2F%3E%20-red">
+<img src="https://img.shields.io/badge/Python-%3C%5C%3E-yellow"> <img src="https://img.shields.io/badge/R-%3C%5C%3E-blue"> <img src="https://img.shields.io/badge/Scala-%3C%2F%3E%20-red"> <img src="https://img.shields.io/badge/Tensorflow-AI-orange">
