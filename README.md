@@ -16,7 +16,7 @@ __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</su
     </p>
   * __Polyps segmentation on colonoscopy images via UNet model (part I)__:
 <p align="center">
- <img src="./media/polyps.jpg">
+ <img src="./media/polyps.png">
 </p>
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
