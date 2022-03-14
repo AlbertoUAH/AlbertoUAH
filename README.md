@@ -7,8 +7,8 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 
 __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</sub> + Job\_experience*X<sub>3</sub> + GitHub\_repositories*X<sub>4</sub>__
 
-* Where _Bachelor\_degree_ equals: __Computer Science at University of Alcalá de Henares (Spain)__
-* Where _Master\_degree_ equals: __Big Data & Business Analytics at Complutense University of Madrid__
+* Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
+* Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__
 * Where _Job\_experience_ (as a Data Scientist) equals:
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
     <p align="center">
