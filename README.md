@@ -9,7 +9,7 @@ __Alberto\_profile = Bachelor\_degree*X<sub>1</sub> + Master\_degree*X<sub>2</su
 
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__
-* Where _Job\_experience_ (as a Data Scientist) equals:
+* Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
     <p align="center">
      <img src="./media/knee.gif">
