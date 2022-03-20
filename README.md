@@ -7,7 +7,7 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 
 __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_degree*X<sub>3</sub> + Job\_experience*X<sub>4</sub> + GitHub\_repositories*X<sub>5</sub>__
 
-![Person icon](https://www.vhv.rs/dpng/d/544-5445462_people-icons-png-flat-person-icon-png-transparent.png)
+![Person icon](https://www.freeiconspng.com/thumbs/human-icon-png/econ-human-icon-19.png)
 * Where _Name_ equals: __Alberto Fernández Hernández__
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__
