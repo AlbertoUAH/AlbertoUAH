@@ -11,7 +11,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 * Where _Name_ equals: __Alberto Fernández Hernández__
 
 
-![UAH icon](https://www.centrosuniversitarios.com/uploads/uah_logo.jpg)
+![UAH icon](https://images.theconversation.com/partners/1121/logos/logo-1529852062.png?ixlib=rb-1.1.0&q=45&auto=format&w=170&h=170)
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__
 * Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__
