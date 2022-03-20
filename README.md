@@ -26,7 +26,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
  <img src="./media/polyps.PNG">
 </p>
 
-## NGO projects (SoGoodData)
+## NGO projects - [SoGoodData](https://sogooddata.org/)
 
 * __Identifying Spanish towns at risk of depopulation: a clustering approach with R__
  
