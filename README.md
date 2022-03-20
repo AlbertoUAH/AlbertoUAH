@@ -13,7 +13,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__ ![UCM icon](https://rockbotic.com/wp-content/uploads/2020/01/UnivCompl-logo-e1579519896939.png)
 
-<img src="https://rockbotic.com/wp-content/uploads/2020/01/UnivCompl-logo-e1579519896939.png" alt="drawing" width="120"/>
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/ucm_logo-Universidad_Complutense_de_Madrid.png" alt="drawing" width="120"/>
 
 * Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__ ![Healthcare icon](https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png)
 
