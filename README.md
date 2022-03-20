@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://pbs.twimg.com/media/CeP0MvqUIAE_ojO.jpg" width="150px">
+ <img src="https://pbs.twimg.com/media/CeP0MvqUIAE_ojO.jpg" width="350px">
 </p>
  
 # Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
