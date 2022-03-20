@@ -25,6 +25,10 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 <p align="center">
  <img src="./media/polyps.PNG">
 </p>
+
+## NGO projects (SoGoodData)
+
+* __Identifying Spanish towns at risk of depopulation: a clustering approach with R__
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
