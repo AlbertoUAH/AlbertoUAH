@@ -15,9 +15,9 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 * Where _URLs_ equals:
 
 [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/alberto-fernandez-hernandez"
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=USERID"
 
 <p align="center">
   <img src="https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png"/>
