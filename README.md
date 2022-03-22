@@ -5,13 +5,19 @@
 # Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using a linear regression:
 
-__User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_degree*X<sub>3</sub> + Job\_experience*X<sub>4</sub> + GitHub\_repositories*X<sub>5</sub>__
+__User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_degree*X<sub>3</sub> + Job\_experience*X<sub>4</sub> + GitHub\_repositories*X<sub>5</sub> + URLs*X<sub>6</sub>__
 
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__ 
 * Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__ 
+* Where _URLs_ equals:
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/"
 
 <p align="center">
   <img src="https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png"/>
