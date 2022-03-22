@@ -9,23 +9,13 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
-![Person icon](https://www.freeiconspng.com/thumbs/human-icon-png/econ-human-icon-19.png)
-
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
-
-
-![UAH icon](https://images.theconversation.com/partners/1121/logos/logo-1529852062.png?ixlib=rb-1.1.0&q=45&auto=format&w=170&h=170)
-
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__ 
-
-
-<img src="https://cuiciid2019.net/wp-content/uploads/2019/03/logo-de-la-complutense.gif" alt="drawing" width="90"/>
-
 * Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__ 
 
-
-![Healthcare icon](https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png)
-
+<p align="center">
+  <img src="https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png"/>
+</p>
 ## Portfolio projects
 
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
