@@ -29,7 +29,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
 
-* __![Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
+* __[Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
