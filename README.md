@@ -19,6 +19,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 <p align="center">
   <img src="https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png"/>
 </p>
+
 ## Portfolio projects
 
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
