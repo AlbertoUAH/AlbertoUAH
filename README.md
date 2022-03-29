@@ -11,7 +11,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
 * Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__ 
-* Where _Job\_experience_ equals: __Data Scientist at the healthcare industry__ 
+* Where _Job\_experience_ equals: __Data Scientist in the healthcare industry__ 
 * Where _URLs_ equals:
 
 [![LinkedIn icon](./media/linkedin_icon.png)](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/)
