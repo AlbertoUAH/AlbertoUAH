@@ -40,7 +40,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 ### [Pump it up: data mining the watertable - Driven data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
-__Position__: 47 of 12508.
+__Position__: 47 of 12508 (Username: Big Data - UCM)
 
 
  
