@@ -42,6 +42,8 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 __Position__: 47 of 12508 (Username: Big Data - UCM)
 
+[URL to RMarkdown code - RPubs](https://rpubs.com/Alberto98/891456) (comments in Spanish)
+
 
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
