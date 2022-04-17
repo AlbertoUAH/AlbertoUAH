@@ -26,7 +26,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
     <p align="center">
      <img src="./media/knee.gif">
     </p>
-  * __[Polyps segmentation on colonoscopy images via UNet model (part I) (In progress...)](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
+  * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
 <p align="center">
  <img src="./media/polyps.PNG">
 </p>
