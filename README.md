@@ -44,6 +44,8 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 [URL to RMarkdown code - RPubs](https://rpubs.com/Alberto98/891456) (comments in Spanish)
 
+### [UW-Madison GI Tract Image Segmentation - Kaggle](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
+
 
  
 # Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
