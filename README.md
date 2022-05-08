@@ -36,7 +36,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 * __[Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
 
 
-## Competitions
+## Competitions (https://cdn-icons-png.flaticon.com/128/708/708906.png)[Competition icon]
 
 ### [Pump it up: data mining the watertable - Driven data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
