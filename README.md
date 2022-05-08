@@ -48,5 +48,10 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 
  
-# Data Science skills <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
+# Data Science skills 
+
+<img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
+
+Just kidding...
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
