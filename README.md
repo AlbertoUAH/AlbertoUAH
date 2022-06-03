@@ -2,7 +2,7 @@
  <img src="https://pbs.twimg.com/media/CeP0MvqUIAE_ojO.jpg" width="850px">
 </p>
  
-# Hi everyone! <img src="https://i.gifer.com/4Snj.gif" width="30px">
+# Hi everyone! <img src="https://i.gifer.com/4Snj.gif" width="300px">
 This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using a linear regression:
 
 __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_degree*X<sub>3</sub> + Job\_experience*X<sub>4</sub> + GitHub\_repositories*X<sub>5</sub> + URLs*X<sub>6</sub>__
