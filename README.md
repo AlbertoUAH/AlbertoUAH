@@ -30,6 +30,10 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 <p align="center">
  <img src="./media/polyps.PNG">
 </p>
+* __[GI Tract segmentation](https://github.com/AlbertoUAH/gi-tract-segmentation)__:
+<p align="center">
+<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
+</p>
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
 
