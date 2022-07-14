@@ -138,8 +138,8 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 </td>
     
 <td align="center" width="25%">
-<span><b><center>AWS</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"> 
+<span><b><center>Google Cloud</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/fluency/344/google-logo.png"> 
 </td>
     
 <td align="center" width="25%">
