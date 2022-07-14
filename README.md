@@ -157,8 +157,10 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 </table>
 </p>
 
+__And the most important skill...__
+
 <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
 
-Just kidding...
+Just kidding 🤣...
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
