@@ -55,7 +55,7 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
  
 # 🛠 Tech skills 
-
+<p>
 <center>
 <table>
 <tbody align="center">
@@ -155,6 +155,7 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 </tbody>
 </table>
+</p>
 
 <img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
 
