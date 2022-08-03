@@ -14,11 +14,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 * Where _Job\_experience_ equals: __Data Scientist in the healthcare industry__ 
 * Where _URLs_ equals: [![LinkedIn icon](./media/linkedin_icon.png)](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/)
 
-<p align="center">
-  <img src="https://icons.iconarchive.com/icons/martz90/circle-addon2/72/health-icon.png"/>
-</p>
-
-## Portfolio projects
+## Computer Vision - Portfolio projects
 
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
     <p align="center">
