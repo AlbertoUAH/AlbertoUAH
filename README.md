@@ -33,9 +33,9 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 ## NLP projects
 
-* __[GI Tract segmentation](https://github.com/sergiopperez/hackathon_podcast)__:
+* __[PodcastNER](https://github.com/sergiopperez/hackathon_podcast)__:
 <p align="center">
- <img src="https://camo.githubusercontent.com/f047e40c87e0587d4eedcd2401f6bca612c8f4a4b23f916033ebc0969a378448/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f73796e632f44344532374151473278664c61332d476253412f61727469636c6573686172652d736872696e6b5f3830302f302f313638313134323239323133313f653d3136383137353434303026763d6265746126743d7031566c496d636c3950347154736b67583434665a7579536f3064334b6a6b6b7a66387a696c4370584d59"/>
+    <img src="https://media.licdn.com/dms/image/sync/D4E27AQG2xfLa3-GbSA/articleshare-shrink_800/0/1681142292131?e=1681754400&v=beta&t=p1VlImcl9P4qTskgX44fZuySo0d3Kjkkzf8zilCpXMY"  width="50%" height="20%">
 </p>
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
