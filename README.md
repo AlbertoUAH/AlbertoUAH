@@ -31,6 +31,13 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
  <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
 </p>
 
+## NLP projects
+
+* __[GI Tract segmentation](https://github.com/sergiopperez/hackathon_podcast)__:
+<p align="center">
+ <img src="https://camo.githubusercontent.com/f047e40c87e0587d4eedcd2401f6bca612c8f4a4b23f916033ebc0969a378448/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f73796e632f44344532374151473278664c61332d476253412f61727469636c6573686172652d736872696e6b5f3830302f302f313638313134323239323133313f653d3136383137353434303026763d6265746126743d7031566c496d636c3950347154736b67583434665a7579536f3064334b6a6b6b7a66387a696c4370584d59"/>
+</p>
+
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
 
 * __[Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
