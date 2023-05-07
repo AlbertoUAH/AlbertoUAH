@@ -53,7 +53,7 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 ### [UW-Madison GI Tract Image Segmentation - Kaggle](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
 
-
+### [Finalist at SomosNLP Hackathon - "Los LLMs hablan español"](https://www.linkedin.com/feed/update/urn:li:activity:7056944509401636864/)
  
 # 🛠 Tech skills 
 <p>
