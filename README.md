@@ -57,8 +57,8 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
  
 # 🛠 Tech skills 
 <p>
-<center>
-<table class="center">
+<div style="text-align: center;">
+<table class="center" style="margin: 0 auto;">
 <tbody align="center">
  <tr>
    
@@ -156,7 +156,7 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 </tbody>
 </table>
-</center>
+</div>
 </p>
 
 __And the most important skill...__
