@@ -156,6 +156,7 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 </tbody>
 </table>
+</center>
 </p>
 
 __And the most important skill...__
