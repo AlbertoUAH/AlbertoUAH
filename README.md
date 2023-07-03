@@ -11,6 +11,15 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 
 $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \times X_{3} + JobExperience \times X_{4} + GitHubRepositories \times X_{5} + URLs \times X_{6}$$
 
+| Feature Name | Estimate | Pr(>|t|) | Interpret |
+|-----------|-----------|-----------|-----------|
+| Name    | Alberto Fernádez    | 1e-5| * |
+| Fila 2    | Fila 2    |||
+| Fila 3    | Fila 3    |||
+| Fila 4    | Fila 4    |||
+| Fila 5    | Fila 5    |||
+| Fila 6    | Fila 6    |||
+
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
 * Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
