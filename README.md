@@ -11,20 +11,13 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 
 $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \times X_{3} + JobExperience \times X_{4} + GitHubRepositories \times X_{5} + URLs \times X_{6}$$
 
-<p align="center">
 | Feature Name | Estimate          | Pr(>\|t\|) | Estimate |
 |--------------|-------------------|------------|----------|
 | Name         | Alberto Fernández | 2e-05      | *        |
-|              |                   |            |          |
-|              |                   |            |          |
-</p>
-
-* Where _Name_ equals: __Alberto Fernández Hernández__ 
-
-* Where _Bachelor\_degree_ equals: __4 years - Computer Science at University of Alcalá de Henares (Spain)__
-* Where _Master\_degree_ equals: __1 year - Big Data & Business Analytics at Complutense University of Madrid__ 
-* Where _Job\_experience_ equals: __Data Scientist in the healthcare industry__ 
-* Where _URLs_ equals: [![LinkedIn icon](./media/linkedin_icon.png)](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/)
+| Bachelor degree | Computer Science - Universidad de Alcalá de Henares | 4e-05           | **         |
+| Master degree | Big Data & Business Analytics - Universidad Complutense de Madrid | 4.5e-05           | **         |
+| Job experience | Healthcare and Telco industry | 5e-05           | ***         |
+| URLs | [![LinkedIn icon](./media/linkedin_icon.png)](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/) | 5e-05           | ***         |
 
 ## Computer Vision - Portfolio projects
 
