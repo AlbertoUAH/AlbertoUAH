@@ -14,11 +14,6 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 | Feature Name | Estimate | Pr(>|t|) | Interpret |
 |-----------|-----------|-----------|-----------|
 | Name    | Alberto Fernádez    | 1e-5| * |
-| Fila 2    | Fila 2    |||
-| Fila 3    | Fila 3    |||
-| Fila 4    | Fila 4    |||
-| Fila 5    | Fila 5    |||
-| Fila 6    | Fila 6    |||
 
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
