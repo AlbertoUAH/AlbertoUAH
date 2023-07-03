@@ -9,7 +9,7 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
  <img src="https://miro.medium.com/max/1800/1*w7xxhJu2HSnw8BGAhDukcw.gif" width="550px">
 </p>
 
-$$User_{profile} = Name \times X_{1} + Bachelor_degree \times X_{2} + Master_degree \times X_{3} + Job_experience \times X_{4} + GitHub_repositories \times X_{5} + URLs \times X_{6}$$
+$$User_{profile} = Name \times X_{1} + Bachelor\\_degree \times X_{2} + Master_degree \times X_{3} + Job_experience \times X_{4} + GitHub_repositories \times X_{5} + URLs \times X_{6}$$
 
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
