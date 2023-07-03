@@ -28,7 +28,7 @@ __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_
 
 * __[GI Tract segmentation](https://github.com/AlbertoUAH/gi-tract-segmentation)__:
 <p align="center">
- <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif" width="650px/>
+ <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif" width="650px"/>
 </p>
 
 ## NLP projects
