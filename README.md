@@ -2,8 +2,8 @@
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="650px">
 </p>
 
-# Hi everyone! <img src="https://i.gifer.com/4Snj.gif" width="300px">
-This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using a linear regression:
+# ```Hi everyone!```
+Now is the perfect moment for me to introduce myself, sharing details about my bachelor's and master's degrees, job experiences, GitHub repositories, and more. However, as a Data Scientist, I'd like to take a different approach and introduce myself using a linear regression analogy:
 
 <p align="center">
  <img src="https://miro.medium.com/max/1800/1*w7xxhJu2HSnw8BGAhDukcw.gif" width="550px">
