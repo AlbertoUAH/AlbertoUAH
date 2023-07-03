@@ -19,7 +19,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 | Master degree | Big Data & Business Analytics - Universidad Complutense de Madrid | 4.5e-05           | **         |
 | Job experience | Healthcare and Telco industry | 5e-05           | ***         |
 | URLs | [![LinkedIn icon](./media/linkedin_icon.png)](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/) | 5e-05           | ***         |
-
+</center>
 
 ## Computer Vision - Portfolio projects
 
