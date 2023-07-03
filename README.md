@@ -44,7 +44,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[PodcastNER](https://github.com/sergiopperez/hackathon_podcast)__:
 <p align="center">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg"  width="10%" height="5%">
+    <img src="https://luxcapital-website-media.s3.amazonaws.com/wp-content/uploads/2019/12/23115642/Logo-600x554.png"  width="10%" height="5%">
 </p>
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
