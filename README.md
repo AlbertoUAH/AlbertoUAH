@@ -2,7 +2,9 @@
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="650px">
 </p>
 
-<style> @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); .container-bottom-to-up { overflow: hidden; margin: 0px; } .top-to-bottom { animation: 0.4s top-to-bottom forwards; font-size: 24px; font-weight: 600; letter-spacing: -.005em; font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; color: rgba(0,0,0,0.8); text-align: left; } @keyframes top-to-bottom { from { transform: translateY(-48px); } to { transform: translateY(0); } } </style>
+<style> 
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); .container-bottom-to-up { overflow: hidden; margin: 0px; } .top-to-bottom { animation: 0.4s top-to-bottom forwards; font-size: 24px; font-weight: 600; letter-spacing: -.005em; font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; color: rgba(0,0,0,0.8); text-align: left; } @keyframes top-to-bottom { from { transform: translateY(-48px); } to { transform: translateY(0); } } 
+</style>
 
 <div id="containerAnimation" class="container-bottom-to-up" >   <p class="top-to-bottom">Hello wordtest</p>  </div>
 
