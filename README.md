@@ -40,11 +40,8 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[PodcastNER](https://github.com/sergiopperez/hackathon_podcast)__:
 <p align="center">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg"  width="10%" height="5%">
+    <img src="(https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/cca25766-f980-4c43-9427-5979301c5e62"  width="10%" height="5%">
 </p>
-
-![image](https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/cca25766-f980-4c43-9427-5979301c5e62)
-
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
 
