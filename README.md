@@ -163,6 +163,6 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 </div>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertouah">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertouah&show_icons=true&theme=radical" alt="Top languages">
 
 <img src="https://github-readme-stats.vercel.app/api?username=albertouah&show_icons=true&theme=radical" alt="Alberto GitHub stars">
