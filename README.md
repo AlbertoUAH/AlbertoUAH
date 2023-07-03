@@ -6,7 +6,7 @@
 This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using a linear regression:
 
 <p align="center">
- <img src="https://miro.medium.com/max/1800/1*w7xxhJu2HSnw8BGAhDukcw.gif">
+ <img src="https://miro.medium.com/max/1800/1*w7xxhJu2HSnw8BGAhDukcw.gif" width="550px">
 </p>
 
 __User\_profile = Name*X<sub>1</sub> + Bachelor\_degree*X<sub>2</sub> + Master\_degree*X<sub>3</sub> + Job\_experience*X<sub>4</sub> + GitHub\_repositories*X<sub>5</sub> + URLs*X<sub>6</sub>__
