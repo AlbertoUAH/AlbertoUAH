@@ -164,5 +164,6 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
