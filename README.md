@@ -74,39 +74,39 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 <td align="center" width="30%">
 <span><b><center>OpenCV</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/4da05221-d16f-4095-8def-2c88e37596de"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>PyTorch</center></b></span><br/> 
-<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/2dd23d02-5516-4c4d-8b0e-388d6b4bafb5"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>Notebook</center></b></span><br/>  
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/bf704a9f-d47b-4292-b0fc-5e11f9105f25"> 
 </td>
 </tr>
 
 <tr> 
 <td align="center" width="25%">
 <span><b><center>Sklearn</center></b></span><br/> 
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/1c9548f9-55cd-4a06-937e-eca0fa668649"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>NumPy</center></b></span> <br/>
-<img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/72723dc2-f84f-45cb-b77e-518c837904bf"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>Pandas</center></b></span> <br/>
-<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/27714111-3c80-4405-a943-a2b965e75188"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>Matplotlib</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/50c4f113-2d0b-4a0b-94a7-78e9d810ac65"/>                             
 </td>
 
 </tr>
@@ -114,22 +114,22 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 <tr>
 <td align="center" width="25%">
 <span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/4fe2c6f6-b3c9-4caa-a5aa-2fdcb2196503">
 </td> 
 
 <td align="center" width="25%">
 <span><b><center>Keras</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/d68d4672-199b-4a54-a968-b5a4cb7b643d"> 
 </td>
 
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/ea8acc9a-7913-4f14-bf0b-1c470b6d7c2b"/>
 </td>
 
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/649957f4-3e63-4f4d-895e-a4ed5bbec1c7"/>
 </td>
 
 </td>
@@ -139,22 +139,22 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 
 <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/e1810af9-c726-4e45-b333-240059adb29f"> 
 </td>
     
 <td align="center" width="25%">
 <span><b><center>Google Cloud</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/fluency/344/google-logo.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/9e5abf46-020b-47a4-8c46-605971d9ae5c"> 
 </td>
     
 <td align="center" width="25%">
 <span><b><center>Docker</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/docker.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/cc1be276-62b9-40f2-9599-d15eded83c6d"> 
 </td>
  
 <td align="center" width="25%">
 <span><b><center>VS CODE</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/fc6ad478-be0a-483c-8497-946c545828a6"> 
 </td>   
 </tr>
 
@@ -162,11 +162,5 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
 </table>
 </div>
 </p>
-
-__And the most important skill...__
-
-<img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" width="200px">
-
-Just kidding 🤣...
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoUAH&theme=tokyonight&hide=html,TeX)
