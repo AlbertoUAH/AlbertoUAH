@@ -13,7 +13,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 <center>
  
-| Feature Name | Estimate          | Pr(>\|t\|) | Estimate |
+| Feature Name | Estimate          | Pr(>\|t\|) | Interpret |
 |--------------|-------------------|------------|----------|
 | Name         | Alberto Fernández | 2e-05      | *        |
 | Bachelor degree | Computer Science - Universidad de Alcalá de Henares | 4e-05           | **         |
