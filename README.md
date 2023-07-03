@@ -11,11 +11,13 @@ This is "the" moment I should introduce myself, about bachelor/master degrees, j
 
 $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \times X_{3} + JobExperience \times X_{4} + GitHubRepositories \times X_{5} + URLs \times X_{6}$$
 
+<p align="center">
 | Feature Name | Estimate          | Pr(>\|t\|) | Estimate |
 |--------------|-------------------|------------|----------|
 | Name         | Alberto Fernández | 2e-05      | *        |
 |              |                   |            |          |
 |              |                   |            |          |
+</p>
 
 * Where _Name_ equals: __Alberto Fernández Hernández__ 
 
