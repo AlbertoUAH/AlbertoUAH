@@ -2,7 +2,7 @@
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="650px">
 </p>
 
-# ```Hi everyone!```
+# ```print(Hi everyone!)```
 Now is the perfect moment for me to introduce myself, sharing details about my bachelor's and master's degrees, job experiences, GitHub repositories, and more. However, as a Data Scientist, I'd like to take a different approach and introduce myself using a linear regression analogy:
 
 <p align="center">
