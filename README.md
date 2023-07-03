@@ -48,7 +48,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 * __[Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
 
 
-## Competitions <img src="https://cdn-icons-png.flaticon.com/128/708/708906.png" width=30px>
+## Competitions <img src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/8ed43411-8eed-41c1-a9e8-42c15d8811e7" width=30px>
 
 ### [Pump it up: data mining the watertable - Driven data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
@@ -69,10 +69,9 @@ __Position__: 47 of 12508 (Username: Big Data - UCM)
    
 <td align="center" width="25%">
 <span><b><center>Python</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+<img height=75px src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/abffbf14-155f-4f7b-ba35-20999292399d"> 
 </td>
 
-   
 <td align="center" width="30%">
 <span><b><center>OpenCV</center></b></span><br/>  
 <img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
