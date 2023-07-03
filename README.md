@@ -1,7 +1,7 @@
 <p align="center">
- <img src="https://pbs.twimg.com/media/CeP0MvqUIAE_ojO.jpg" width="850px">
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="850px">
 </p>
- 
+
 # Hi everyone! <img src="https://i.gifer.com/4Snj.gif" width="300px">
 This is "the" moment I should introduce myself, about bachelor/master degrees, job experiences, github repositories etc. etc. However, I'm a Data Scientist! Let me introduce myself, using a linear regression:
 
