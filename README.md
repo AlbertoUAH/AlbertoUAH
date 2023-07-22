@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="650px">
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif" width="620px">
 </p>
 
 # ```print("Hi everyone!")```
