@@ -44,6 +44,9 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 </p>
 
 * __[AutexTification](https://github.com/AlbertoUAH/autexTification)__:
+<p align="center">
+  <img src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/2e0b964a-e566-4068-b403-1cf77bbc1f0e"  width="20%" height="15%">
+</p>
 
 
 
