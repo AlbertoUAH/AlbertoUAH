@@ -26,7 +26,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
      <img src="./media/knee.gif">
     </p>
     <p align="center">
-     <a href="https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning"><img src="https://gh-card.dev/repos/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning.svg"></a>
+     <a href="https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning.png" width="560px"></a>
     </p>
 
   * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
