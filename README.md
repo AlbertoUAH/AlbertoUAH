@@ -33,7 +33,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[GI Tract segmentation](https://github.com/AlbertoUAH/gi-tract-segmentation)__:
 <p align="center">
- <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif" width="650px"/>
+ <a href="https://github.com/AlbertoUAH/gi-tract-segmentation"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/gi-tract-segmentation.png" width="460px"></a>
 </p>
 
 ## NLP projects
