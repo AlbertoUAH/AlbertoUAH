@@ -23,10 +23,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
   * __[Knee lesions classification via deep learning techniques (using a transfer-learning model based on Stanford MRI Dataset)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)__:  
     <p align="center">
-     <img src="./media/knee.gif">
-    </p>
-    <p align="center">
-     <a href="https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning.png" width="760px"></a>
+     <a href="https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning.png" width="460px"></a>
     </p>
 
   * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
