@@ -28,7 +28,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
   * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
 <p align="center">
- <img src="./media/polyps.PNG">
+ <a href="https://github.com/AlbertoUAH/polyps-image-segmentation"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/polyps-image-segmentation.png" width="460px"></a>
 </p>
 
 * __[GI Tract segmentation](https://github.com/AlbertoUAH/gi-tract-segmentation)__:
