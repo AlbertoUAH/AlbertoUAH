@@ -25,6 +25,8 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
     <p align="center">
      <img src="./media/knee.gif">
     </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertouah&repo=Knee-Lesions-Classification-via-Deep-Learning)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)
     
   * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
 <p align="center">
