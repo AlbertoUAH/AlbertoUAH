@@ -40,7 +40,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[PodcastNER](https://github.com/sergiopperez/hackathon_podcast)__:
 <p align="center">
-    <img src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/2e0b964a-e566-4068-b403-1cf77bbc1f0e"  width="20%" height="15%">
+    <a href="https://github.com/sergiopperez/hackathon_podcast"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/sergiopperez/hackathon_podcast.png" width="460px"></a>
 </p>
 
 * __[AutexTification](https://github.com/AlbertoUAH/autexTification)__ from IberLEF 2023:
