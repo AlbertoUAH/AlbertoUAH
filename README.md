@@ -25,7 +25,6 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
     <p align="center">
      <img src="./media/knee.gif">
     </p>
-
     <p align="center">
      <a href="https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning"><img src="https://gh-card.dev/repos/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning.svg"></a>
     </p>
