@@ -45,7 +45,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[AutexTification](https://github.com/AlbertoUAH/autexTification)__ from IberLEF 2023:
 <p align="center">
-  <img src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/41387212-dd9b-4175-be5c-465a6233ef6f"  width="45%" height="40%">
+  <a href="https://github.com/AlbertoUAH/autexTification"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/autexTification.png" width="460px"></a>
 </p>
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
