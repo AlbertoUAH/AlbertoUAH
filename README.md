@@ -26,7 +26,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
      <img src="./media/knee.gif">
     </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertouah&repo=Knee-Lesions-Classification-via-Deep-Learning&show_owner=True&card_width=400)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertouah&repo=Knee-Lesions-Classification-via-Deep-Learning&show_owner=True&card_width=500)](https://github.com/AlbertoUAH/Knee-Lesions-Classification-via-Deep-Learning)
 
   * __[Polyps segmentation on colonoscopy images via deep learning](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
 <p align="center">
