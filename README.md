@@ -50,7 +50,7 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[Depression detection on text messages](https://github.com/AlbertoUAH/depression-detection)__ from IberLEF 2023:
 <p align="center">
-  <a href="https://github.com/AlbertoUAH/depression-detection"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/autexTification.png" width="460px"></a>
+  <a href="https://github.com/AlbertoUAH/depression-detection"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AlbertoUAH/depression-detection.png" width="460px"></a>
 </p>
 
 ## NGO projects - [SoGoodData](https://sogooddata.org/)
