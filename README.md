@@ -62,6 +62,10 @@ $$UserProfile = Name \times X_{1} + BachelorDegree \times X_{2} + MasterDegree \
 
 * __[Identifying Spanish towns at risk of depopulation: a clustering approach with R (slides in Spanish)](https://docs.google.com/presentation/d/1Cqvhf0W5QFEXd0AXpiuPQrZzVGl67qf1/edit#slide=id.p20)__
 
+* __[TextualTherapists at MentalRiskES-IberLEF2023: Early Detection of Depression using a User-level Feature-based Machine Learning Approach](https://ceur-ws.org/Vol-3496/mentalriskes-paper3.pdf)__
+
+* __[Taming the Turing Test: Exploring Machine Learning Approaches to Discriminate Human vs. AI-Generated Texts](https://ceur-ws.org/Vol-3496/autextification-paper12.pdf)__
+
 
 ## Competitions <img src="https://github.com/AlbertoUAH/AlbertoUAH/assets/45654081/8ed43411-8eed-41c1-a9e8-42c15d8811e7" width=30px>
 
